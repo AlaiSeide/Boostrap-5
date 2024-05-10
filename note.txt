@@ -1,0 +1,32 @@
+Cores do fundo
+    -  bg-dark -> cor de fundo preto
+
+Cores do Texto
+    - text-info 
+
+
+
+Opacidade do Texto
+    text-opacity-75 -> de 75 até 25
+
+
+
+grid
+    row -> linha
+        - col -> coluna, consigo dividir a minha linha em até 12 colunas
+        - col-6 -> quando definimos que uma coluna é col-6 é vai ocupar a metada porque só podemos dividir a nossa linha em 12 colunas
+
+
+container
+    - container -> é usada para centralizar o meu conteudo no meu da pagina
+    - container-fluid -> Vai ocupar maximo de espaco possivel
+
+Breakpoints
+    - Breakpoints sao pontos de quebra
+    - col-xl-4 -> quer dizer em uma resolucao muito alta a minha coluna vai ocupar só 4
+
+    col-12: Em telas extra pequenas (menos de 576px), a coluna ocupará toda a largura da tela (12 de 12 colunas).
+    col-md-6: Em telas pequenas (576px ou mais), a coluna ocupará metade da largura da tela (6 de 12 colunas).
+    col-lg-4: Em telas médias (992px ou mais), a coluna ocupará um terço da largura da tela (4 de 12 colunas).
+    
+    Portanto, em uma tela pequena, você verá duas colunas por linha, e em uma tela média ou maior, você verá três colunas por linha. Isso é um exemplo de como os breakpoints do Bootstrap 5 permitem que você crie layouts responsivos que se adaptam a diferentes tamanhos de tela.
